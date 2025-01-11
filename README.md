@@ -24,6 +24,18 @@ $ https://github.com/inni-69/KoinX
 $ cd KOINX2
 ```
 
+### 2. Setup
+
+1. Install dependencies:
+   ```bash
+   $ npm install
+   ```
+2. Start the frontend server:
+   ```bash
+   $ npm run dev
+   ```
+
+---
 
 
 
