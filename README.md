@@ -53,9 +53,8 @@ Access the application at `http://localhost:5000`.
 
 ## Code Setup Process
 1. Clone the repository.
-2. Set up environment variables in the backend.
-3. Install dependencies for both backend and frontend.
-4. Start both servers.
+2. Install dependencies.
+3. Start server.
 
 ---
 
