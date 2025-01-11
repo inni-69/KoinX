@@ -61,9 +61,9 @@ Access the application at `http://localhost:5000`.
 
 
 
-```
 
-![image](https://github.com/user-attachments/assets/c4cf7fdf-b2d0-41de-bc84-8a13d242103a)
+
+[image](https://github.com/user-attachments/assets/c4cf7fdf-b2d0-41de-bc84-8a13d242103a)
 ![image](https://github.com/user-attachments/assets/a6f2730b-bf15-417f-b9af-389e8b04af6f)
 ![image](https://github.com/user-attachments/assets/ba3da114-ef33-44ff-bbb1-90c5a4cd5a99)
 ![image](https://github.com/user-attachments/assets/a0558806-2de7-4f9e-9f96-cce1c0f814c3)
@@ -78,7 +78,7 @@ Access the application at `http://localhost:5000`.
 
 
 
----
+
 
 
 
