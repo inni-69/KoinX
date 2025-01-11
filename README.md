@@ -49,6 +49,33 @@ Access the application at `http://localhost:5000`.
 - `/coins/{id}`: Fetches metadata for dynamic token support.
 
 
+---
+
+## Code Setup Process
+1. Clone the repository.
+2. Set up environment variables in the backend.
+3. Install dependencies for both backend and frontend.
+4. Start both servers.
+
+---
+
+
+
+```
+
+![image](https://github.com/user-attachments/assets/c4cf7fdf-b2d0-41de-bc84-8a13d242103a)
+![image](https://github.com/user-attachments/assets/a6f2730b-bf15-417f-b9af-389e8b04af6f)
+![image](https://github.com/user-attachments/assets/ba3da114-ef33-44ff-bbb1-90c5a4cd5a99)
+![image](https://github.com/user-attachments/assets/a0558806-2de7-4f9e-9f96-cce1c0f814c3)
+![image](https://github.com/user-attachments/assets/9532152f-cf4d-4d29-bd96-7439d076830e)
+![image](https://github.com/user-attachments/assets/39143f03-da7d-4d6e-9fa0-7a497cb94def)
+![image](https://github.com/user-attachments/assets/bc04dbe6-ffa6-4b87-8bb7-8b311c53f86c)
+![image](https://github.com/user-attachments/assets/7924656f-28ae-4885-baa4-29cd0ea80212)
+
+
+
+
+
 
 
 ---
