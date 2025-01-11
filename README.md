@@ -36,7 +36,22 @@ $ cd KOINX2
    ```
 
 ---
+Access the application at `http://localhost:5000`.
 
+
+
+---
+
+## API Documentation
+### CoinGecko APIs:
+
+-  `/simple/price`: Fetches the price of Bitcoin in USD and INR with 24-hour change.
+- `/coins/{id}`: Fetches metadata for dynamic token support.
+
+
+
+
+---
 
 
 
