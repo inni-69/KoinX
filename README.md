@@ -7,7 +7,7 @@ KoinX - Frontend Intern Assignment is a responsive cryptocurrency dashboard buil
 ## Live Demo
 Access the live versions of the frontend and backend applications through the links below:
 
-- **Live Application**:
+- **https://koinxdevanshu.netlify.app/**:
 ---
 ## System Requirements
 
